@@ -12,6 +12,12 @@ def get_version():
 
 # Dependencies (format is 'PYPI_PACKAGE_NAME[>]=VERSION_NUMBER')
 BASE_DEPENDENCIES = [
+    'wf-honeycomb-io>=1.5',
+    'dash>=1.19',
+    'Flask-Caching>=1.10',
+    'pandas>=1.2',
+    'python-dateutil>=2.8',
+    'inflection>=0.5'
 ]
 
 # TEST_DEPENDENCIES = [
