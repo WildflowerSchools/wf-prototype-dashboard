@@ -1,10 +1,10 @@
-# MODULE_NAME
+# prototype_dashboard
 
-SHORT_DESCRIPTION
+Prototype teacher leader dashboard for Wildflower observation support technology
 
 ## Installation
 
-`pip install PYPI_PACKAGE_NAME`
+`pip install wf-prototype-dashboard`
 
 ## Task list
 * TBD
